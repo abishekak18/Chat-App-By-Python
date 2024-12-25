@@ -39,7 +39,7 @@ Follow these steps to run the project locally:
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/chat-app.git
+   git clone https://github.com/abishekak18/chat-app.git
    cd chat-app
    ```
 
